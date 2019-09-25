@@ -1,6 +1,6 @@
 # Building a wide & deep model with the Keras Functional API
 
-This model takes a wine's description and variety (Pinot Noir, Chardonnay, etc.) as input and predicts the price of the wine. It's built with tf.keras using the Functional Model API and it can be downloaded from :- https://www.kaggle.com/zynicide/wine-reviews/data.
+This model takes a wine's description and variety (Pinot Noir, Chardonnay, etc.) as input and predicts the price of the wine. It's built with tf.keras using the Functional Model API and the dataset can be downloaded from :- https://www.kaggle.com/zynicide/wine-reviews/data.
 Here's an example input and prediction:
 
 # Inputs
